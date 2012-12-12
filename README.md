@@ -1,0 +1,4 @@
+util
+====
+
+General scala utilities 
